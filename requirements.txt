@@ -1,0 +1,5 @@
+requests
+colorama
+questionary
+alive-progress
+termcolor
